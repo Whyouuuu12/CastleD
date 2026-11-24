@@ -1,0 +1,5 @@
+[
+  {"kodeLevel":"LVL-01","koinAwal":350,"nyawaMarkasAwal":20,"jumlahGelombang":3,"musuhPerGelombang":5,"jedaSpawnDetik":1.40},
+  {"kodeLevel":"LVL-02","koinAwal":420,"nyawaMarkasAwal":18,"jumlahGelombang":6,"musuhPerGelombang":7,"jedaSpawnDetik":1.15},
+  {"kodeLevel":"KUSTOM","koinAwal":400,"nyawaMarkasAwal":20,"jumlahGelombang":4,"musuhPerGelombang":6,"jedaSpawnDetik":1.25}
+]
